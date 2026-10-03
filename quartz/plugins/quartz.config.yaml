@@ -1,5 +1,0 @@
-plugins:
-  - source: "@quartz-themes/core"
-    options:
-      theme: "w95"
-      mode: "both"
